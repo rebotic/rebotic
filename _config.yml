@@ -4,7 +4,7 @@
 
 url: http://ReBotic.github.io/rebotic
 title: ReBotic Blog
-subtitle: Reciclando blogs.
+subtitle: También reciclamos posts.
 author: ReBotic
 simple_search: https://www.google.com/search
 description: Es un Blog para comentar las actividades de reclicado de eléctronica
@@ -73,7 +73,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
