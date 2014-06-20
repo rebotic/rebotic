@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ReBotic Blog]]></title>
+  <link href="http://ReBotic.github.io/rebotic/atom.xml" rel="self"/>
+  <link href="http://ReBotic.github.io/rebotic/"/>
+  <updated>2014-06-19T21:18:27-03:00</updated>
+  <id>http://ReBotic.github.io/rebotic/</id>
+  <author>
+    <name><![CDATA[ReBotic]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Como Blogear]]></title>
+    <link href="http://ReBotic.github.io/rebotic/blog/2014/06/19/hola-mundo/"/>
+    <updated>2014-06-19T10:13:03-03:00</updated>
+    <id>http://ReBotic.github.io/rebotic/blog/2014/06/19/hola-mundo</id>
+    <content type="html"><![CDATA[<p>Este es un blog de <a href="http://octopress.org/">Octopress</a>. Octopress es una aplicación para hacer blogs que utiliza <a href="http://daringfireball.net/projects/markdown/">Markdown</a> para procesar el texto</p>
+
+<h2>Clonate</h2>
+
+<p>Para clonarte el repo en tu compu</p>
+
+<p><code>git clone git@github.com:ReBotic/ReBotic.git rebotic</code></p>
+
+<p>pasate al rama source y no pushees nada a las otras ramas.</p>
+
+<p><code>git checkout source</code></p>
+
+<h2>Escribí</h2>
+
+<p>Para hacer un nuevo post.</p>
+
+<p><code>rake new_post["título del nuevo post"]</code></p>
+
+<p>Esto creará un nuevo archivo en la carpeta source/posts, editalo y armalo usando markdown.</p>
+
+<h2>Probalo</h2>
+
+<p>Para ver tu cambios, podes correr de forma local el repo.</p>
+
+<p><code>rake preview</code></p>
+
+<h2>Subí tus cambios</h2>
+
+<p>Una vez que todos los cambios estén listo, hace el commit</p>
+
+<p><code>git add .</code></p>
+
+<p><code>git commit -m "mensaje"</code></p>
+
+<p>Corré las tareas de rake</p>
+
+<p><code>rake generate</code></p>
+
+<p><code>rake deploy</code></p>
+]]></content>
+  </entry>
+  
+</feed>
