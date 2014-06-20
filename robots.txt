@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ReBotic.github.io/rebotic/sitemap.xml 
+Sitemap: http://rebotic.github.io/rebotic/sitemap.xml 
